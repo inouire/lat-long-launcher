@@ -1,9 +1,8 @@
 language: ruby
 
 rvm:
-  - 2.2
+  - 2.1
   
 script:
   - ruby tests.rb
  
-sudo: false
